@@ -15,5 +15,5 @@
 # Socials And Youtube!
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/yt.jpeg)
 
-# note
+# Note!
 all sources belong to the original creators, like Friday Night Funkin' and other game sources deployed.
