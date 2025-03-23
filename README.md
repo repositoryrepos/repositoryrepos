@@ -17,4 +17,4 @@
 
 # Note!
 all sources belong to the original creators, like Friday Night Funkin' and other game sources deployed.
-![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/footer-bigger.png)
+![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/BIGGER.png)
