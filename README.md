@@ -10,7 +10,7 @@
 - catalog
 - avatar
 - Game remakes
-# slackrr Games
+# Selenite Game Library
 - soon.
 # Socials And Youtube!
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/yt.jpeg)
