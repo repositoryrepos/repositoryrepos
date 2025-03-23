@@ -6,5 +6,9 @@
 # Popular Repos Include Of:
 - ## Friday Night Funkin Mods Website
 - ## Roblox 2012 website remake
-- Roblox forums
-- Roblox catalog
+- forums
+- catalog
+- avatar
+- Game remakes
+# slackrr Games
+- soon.
