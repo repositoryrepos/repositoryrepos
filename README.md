@@ -22,6 +22,7 @@
   
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/1v1example.png)
   
+  **Note that you need to add a period after (github.io/example) --> (github.io./example)**
   
 # Socials And Youtube!
 [![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/yt.jpeg)](https://youtube.com/@rhap5ody-ynz?si=7339Ekd4DVWQCtix)
