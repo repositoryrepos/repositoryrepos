@@ -15,7 +15,6 @@
 - deploy it into your website using:
   
   https:// repositoryrepos.github.io./Game-Library/(Gamename)
-  ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/web.png)
   
   Example:
   https:// repositoryrepos.github.io./Game-Library/1v1lol
