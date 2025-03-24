@@ -17,7 +17,7 @@
   https:// repositoryrepos.github.io./Game-Library/(Gamename)
   
   Example:
-  https:// repositoryrepos.github.io./Game-Library/1v1lol
+
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/reweb.png)
   
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/1v1example.png)
