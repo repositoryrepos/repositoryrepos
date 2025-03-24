@@ -13,10 +13,10 @@
 # Selenite Game Library
 - 400 Games
 - deploy it into your website using:
-  https://repositoryrepos.github.io./Game-Library/(Gamename)
+  https:// repositoryrepos.github.io./Game-Library/(Gamename)
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/web.png)
   Example:
-  https://repositoryrepos.github.io./Game-Library/1v1lol
+  https:// repositoryrepos.github.io./Game-Library/1v1lol
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/reweb.png)
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/1v1example.png)
   
